@@ -1,0 +1,2 @@
+# SuperSearch
+CLI search tool
