@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+mkdir /lib/super-search
+cp super_search.py /lib/super-search/ && echo "Copied python script to lib"
+cp ss /usr/bin/ && echo "Copied run script to bin"
